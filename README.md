@@ -1,5 +1,6 @@
 # Minecraft Extracted Assets
 This repo holds the Minecraft Assets for R-Pack and Datapack devs. NOTE: These are not mine, and I am just hosting this for ease of use.
+
 # Usage
 I don't own these, so I cannot direct. But, check the EULA at the [Official Minecraft Website](https://minecraft.net/).
 
@@ -10,3 +11,6 @@ Instructions:
 2. Copy the URL in the address bar
 3. Go to [download-directory](https://download-directory.github.io/)
 4. Paste the copied URL, and it should atomatically start downloading.
+
+# How it is done
+How I get the assets is go to [MCVersions.net](mcversions.net), select the wanted version, download, convert the jar to a zip, (modifying the file extension) extract, and upload the data folder and assets folder.
