@@ -1,5 +1,5 @@
 # Minecraft Extracted Assets
-This repo holds the Minecraft Assets for R-Pack and Datapack devs. NOTE: These are not mine, and I am just hosting this for ease of use.
+This repo holds the Minecraft Assets for Resource Pack and Datapack devs. NOTE: These are not mine, and I am just hosting this for ease of use.
 
 # Usage
 I don't own these, so I cannot direct. But, check the EULA at the [Official Minecraft Website](https://minecraft.net/).
