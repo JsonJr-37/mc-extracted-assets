@@ -13,4 +13,4 @@ Instructions:
 4. Paste the copied URL, and it should atomatically start downloading.
 
 # How it is done
-How I get the assets is go to [MCVersions.net](mcversions.net), select the wanted version, download, convert the jar to a zip, (modifying the file extension) extract, and upload the data folder and assets folder.
+How I get the assets is go to [MCVersions.net](https://mcversions.net/), select the wanted version, download, convert the jar to a zip, (modifying the file extension) extract, and upload the data folder and assets folder.
