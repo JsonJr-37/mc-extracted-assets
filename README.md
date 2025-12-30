@@ -4,6 +4,8 @@ This repo holds the Minecraft Assets for Resource Pack and Datapack devs. NOTE: 
 # Usage
 I don't own these, so I cannot direct. But, check the EULA at the [Official Minecraft Website](https://minecraft.net/).
 
+Also, don't forget to look at the [Minecraft Wiki](https://minecraft.wiki/). Helpful Links (probably): [Resource Pack Info](https://minecraft.wiki/w/Resource_pack#Directory_structure) [Datapack Info](https://minecraft.wiki/w/Data_pack#Folder_structur) [Pack Format](https://minecraft.wiki/w/Pack_format)
+
 Instructions:
 1. Click the version zip you want to download
 2. Look on the right on the bar for a download button that says "Download raw file"
